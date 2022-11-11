@@ -31,3 +31,7 @@ res.render("bookinstance_form", {
   status: bookinstance.status
 })
 ```
+
+### JavaScript Date object is off by 1 day
+I have yet to find a fix for this
+
